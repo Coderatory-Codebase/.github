@@ -1,3 +1,4 @@
+# ![Logo](./coderatory-git.png)
 ## Welcome
 
 Innovating at the Intersection of Scalability and Precision
