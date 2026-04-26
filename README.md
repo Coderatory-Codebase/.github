@@ -1,0 +1,2 @@
+# .github
+Coderatory code base.
